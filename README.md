@@ -1,4 +1,4 @@
-<h1>JActive Directory/ Powershell Lab - </h1>
+<h1>Active Directory/ Powershell Lab - </h1>
 
  ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
 
